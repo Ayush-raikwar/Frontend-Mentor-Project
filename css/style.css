@@ -1,0 +1,26 @@
+body{
+    background-color:aliceblue;
+    font-size: 15px;
+}
+
+.main{
+    background-color: hsl(233, 47%, 7%);
+    margin: 10% auto;
+    padding: 10%;
+    width: 75%;
+}
+
+
+.card{
+    color: white;
+    display: grid;
+    background-color: hsl(244, 38%, 16%);
+    
+    grid-template-columns: 1fr 0.9fr;
+    
+}
+
+.card-img{
+    margin-right: 0;
+    padding-right: 0;
+}
