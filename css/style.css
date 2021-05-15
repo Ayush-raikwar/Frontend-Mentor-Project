@@ -101,6 +101,7 @@ h2{
     }
 
     .card{
+        margin-top: 5vh;
         display: grid;
         grid-template-columns: 1fr;
     }
