@@ -101,7 +101,7 @@ h2{
     }
 
     .card{
-        margin-top: 5vh;
+        margin-top: 8vh;
         display: grid;
         grid-template-columns: 1fr;
     }
@@ -112,7 +112,7 @@ h2{
         
    
         width: auto;
-        height: 58vh;
+        height: 45vh;
         position: relative;
         
     }
